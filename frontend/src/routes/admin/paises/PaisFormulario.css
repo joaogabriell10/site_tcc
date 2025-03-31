@@ -1,0 +1,27 @@
+.capa-nome {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.capa-nome .campo-entrada{
+    width: 100%;
+}
+
+.bandeira-codigo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.bandeira-codigo .campo-entrada {
+    width: 100%;
+}
+
+.bandeira-codigo i {
+    font-size: 3rem;
+}
+

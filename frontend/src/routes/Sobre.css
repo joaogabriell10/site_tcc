@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: #1E90FF;
+}
+
+h6{
+    text-align: justify;
+    font-size: 128%;
+    margin-left: 2%;
+
+}
+
+.marmita img {
+    padding: 0 15px;
+    float: left;
+    width: 40%;
+}

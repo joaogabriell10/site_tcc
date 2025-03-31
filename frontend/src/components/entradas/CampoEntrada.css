@@ -1,0 +1,14 @@
+.campo-entrada{
+    display: flex;
+    flex-direction: column;
+}
+
+.campo-entrada input, .campo-entrada textarea {
+    padding: .4rem;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.campo-entrada textarea {
+    height: 5em;
+}

@@ -1,0 +1,12 @@
+.selecao-entrada label {
+    font-size: 1.5rem;
+    
+   
+}
+
+.selecao-entrada {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-start;
+    align-items: center;
+}

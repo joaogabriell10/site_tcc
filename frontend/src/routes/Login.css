@@ -1,0 +1,38 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+.form-erro {
+    color: #800;
+    text-align: center;
+    font-size: 1.25em;
+    margin-block: .5rem;
+}
+
+.login-form {
+    width: 50vw;
+    padding: 2rem;
+    border-radius: 20px;
+    background-color: var(--cor-primaria);
+    color: #fff;
+}
+
+.login-form h1 {
+    color: #fff;
+}
+
+.login-opcoes {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1rem;
+}
+
+.login-opcoes button {
+    padding: .5rem;
+    background-color: var(--cor-terciaria);
+    color: #fff;
+    border-radius: 10px;
+}

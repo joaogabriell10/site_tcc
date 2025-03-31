@@ -1,0 +1,30 @@
+.container-formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+    
+}
+
+.formulario-opcoes {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+    gap: .5rem;
+}
+
+.formulario-admin {
+    background-color: var(--cor-secundaria);
+    padding: 4rem;
+    color: #fff;
+    width: 70vw;
+    border-radius: 25px;
+    border: solid #000 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.formulario-titulo {
+    color: #fff;
+}

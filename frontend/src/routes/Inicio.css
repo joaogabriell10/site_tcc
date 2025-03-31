@@ -1,0 +1,99 @@
+
+p {
+    font-weight: bold;
+}
+.design {
+    display: flex;
+     margin-top: 150px;
+  }
+
+.desigo {
+    width: 100%;
+}
+
+.legenda{
+    color:#00395a;
+    padding-top: 5%;
+}
+  
+
+.alinhamento {
+    display: flex;
+}
+
+.conta {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.produto {
+    background-color: #38b6ff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.2s;
+    max-width: calc(20.33% - 6px); /* 3 produtos por linha com margens */
+}
+
+.produto:hover {
+    transform: scale(1.05);
+}
+
+.produto img {
+    max-width: 100%;
+    height: auto;
+}
+
+.add-to-cart {
+    background-color: #1E90FF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.add-to-cart:hover {
+    background-color: #222d8b;
+}
+
+.cart {
+    position: relative;
+}
+
+.espanha {
+    width: 35px;
+    height: 35px;
+}
+
+.frança {
+    width: 30px;
+    height: 30px;
+}
+
+.australia {
+    width: 30px;
+    height: 30px;
+}
+
+.ira {
+    width: 30px;
+    height: 30px;
+}
+
+.marrocos {
+    width: 25px;
+    height: 25px;
+}
+
+h7 {
+    padding-top: 2%;
+}

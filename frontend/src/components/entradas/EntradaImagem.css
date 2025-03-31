@@ -1,0 +1,19 @@
+.entrada-imagem {
+    background-color: gray;
+    width: 15rem;
+    text-align: center;
+    height: 10rem;
+    border-radius: 20px;
+    padding: 1rem;
+    font-size: 1.2rem;
+    overflow: hidden;
+}
+
+.entrada-imagem img {
+    margin-top: 0.5rem;
+    max-width: 100%;
+}
+
+.entrada-imagem input {
+    display: none;
+}
